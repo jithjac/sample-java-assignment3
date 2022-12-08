@@ -80,10 +80,10 @@
     </build>
 
   <scm>
-    <connection>scm:git:https://github.com/eficensdevops/sample-springboot-example.git</connection>
-    <developerConnection>scm:git:https://github.com/eficensdevops/sample-springboot-example.git</developerConnection>
+    <connection>scm:git:https://github.com/jithjac/sample-java-assignment3.git</connection>
+    <developerConnection>scm:git:https://github.com/jithjac/sample-java-assignment3.git</developerConnection>
     <tag>HEAD</tag>
-    <url>scm:git:https://github.com/eficensdevops/sample-springboot-example.git</url>
+    <url>scm:git:https://github.com/jithjac/sample-java-assignment3.git</url>
   </scm>
 
 </project>
